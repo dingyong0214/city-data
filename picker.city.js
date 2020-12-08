@@ -1,4 +1,4 @@
-module.exportexts =[{
+module.exportexts =[{ 
 		"value": 110000,
 		"text": "北京市",
 		"children": [{
