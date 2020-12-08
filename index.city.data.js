@@ -1,4 +1,4 @@
-module.exports = [{
+module.exports = [{ 
 	"letter": "A",
 	"data": [{
 		"v": 152900,
